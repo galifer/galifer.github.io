@@ -1,7 +1,7 @@
 # Hexo
 # nexo blog move
 ## install Git
-##install node.js
+## install node.js
 
 ## install hexo
 
