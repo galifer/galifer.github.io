@@ -1,4 +1,4 @@
 git status
 git add .
-git commit -a -m "change&backupS"
+git commit -a -m "update"
 git push origin develop
