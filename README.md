@@ -1,7 +1,5 @@
-# myblog
-nexo blog
 # Hexo
-#nexo blog move
+nexo blog move
 ##install Git
 install node.js
 
