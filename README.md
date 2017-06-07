@@ -10,9 +10,9 @@
 
 ## install hexo
 
-	``` bash
+``` bash
 	$ npm install -g hexo-cli
-	```
+```
 	
 ## clone to local
 	克隆到本地文件
@@ -22,9 +22,10 @@
 
 ## install npm
 	进入本地克隆文件运行以下代码
-	```bash
+
+```bash
 	$ npm install
-	```
+```
 	或者运行`dthemesandsuser.sh`，自动进行`npm的安装`、`themes的加载`、以及`user的添加`。
 
 ## issue.sh
@@ -41,7 +42,7 @@
 
 	在根目录_config.yml里添加配置：
 
-	```yaml
+```yaml
 	jsonContent:
 	   meta: false
 	   pages: false
@@ -60,4 +61,4 @@
 	   excerpt: false
 	   categories: false
 	   tags: true
-	```
+```
