@@ -1,4 +1,4 @@
 git status
 git add .
-git commit -a -m "hexo-new失效，此次的commit有效"
+git commit -a -m "有效的"
 git push origin develop
