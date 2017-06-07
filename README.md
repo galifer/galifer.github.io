@@ -15,9 +15,6 @@
 ``` bash
 npm install -g hexo-cli
 ```
-# clone to local
-``` bash
-npm install -g hexo-cli
 
 ## clone to local
 	克隆到本地文件
