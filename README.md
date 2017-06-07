@@ -1,17 +1,17 @@
 # Hexo
 
-# nexo blog move
+# Hexo blog move
 ## install Git
-	[Git](https://git-scm.com/)
+[Git](https://git-scm.com/)
 
 ## install node.js
-	[node.js国内站点](http://nodejs.cn/download/)
-	[node.js v6.0版本](https://nodejs.org/en/)
+[node.js国内站点](http://nodejs.cn/download/)
+[node.js v6.0版本](https://nodejs.org/en/)
 
 ## install hexo
 
 ``` bash
-	$ npm install -g hexo-cli
+$ npm install -g hexo-cli
 ```
 	
 ## clone to local
@@ -24,7 +24,7 @@
 	进入本地克隆文件运行以下代码
 
 ```bash
-	$ npm install
+$ npm install
 ```
 	或者运行`dthemesandsuser.sh`，自动进行`npm的安装`、`themes的加载`、以及`user的添加`。
 
@@ -43,22 +43,22 @@
 	在根目录_config.yml里添加配置：
 
 ```yaml
-	jsonContent:
-	   meta: false
-	   pages: false
-	   posts:
-	   title: true
-	   date: true
-	   path: true
-	   text: false
-	   raw: false
-	   content: false
-	   slug: false
-	   updated: false
-	   comments: false
-	   link: false
-	   permalink: false
-	   excerpt: false
-	   categories: false
-	   tags: true
+jsonContent:
+   meta: false
+   pages: false
+   posts:
+   title: true
+   date: true
+   path: true
+   text: false
+   raw: false
+   content: false
+   slug: false
+   updated: false
+   comments: false
+   link: false
+   permalink: false
+   excerpt: false
+   categories: false
+   tags: true
 ```
