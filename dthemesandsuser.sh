@@ -1,3 +1,4 @@
+npm install
 git config user.name "galifer"
 git config user.email "1159727000@qq.com"
 git clone https://github.com/iissnan/hexo-theme-next.git themes/next
