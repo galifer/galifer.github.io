@@ -7,11 +7,11 @@ title: Hexo
 subtitle:
 description:
 author: Galifer
-language: chinese
-timezone:
+language:
+timezone: Asia/Shanghai
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://zwhouse.space
+url: http://zwhouse.space/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
