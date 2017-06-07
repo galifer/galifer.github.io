@@ -8,10 +8,10 @@ subtitle:
 description:
 author: Galifer
 language:
-timezone: Asia/Shanghai
+timezone: 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://zwhouse.space/
+url: http://zwhouse.space
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
