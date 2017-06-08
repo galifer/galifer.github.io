@@ -1,4 +1,4 @@
 git status
-git add -p .
+git add .
 git commit -a -m "update"
 git push origin develop
